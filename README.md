@@ -28,6 +28,7 @@ To study this system, the assignment analyzes:
 ## Repository Contents
 
 - `ict_asgn_script.py` — Python implementation for the simulation-based tasks
+- `ict_asgn_script.ipynb` — Jupyter Notebook Equivalent for the simulation-based tasks
 - `report.tex` — LaTeX source of the report
 - `part_a_q1.png` , `part_a_q2.png` , `part_a_q3.png` - Numerical Analysis for Part A
 - `b_plots.png` — Simulation Plots for Part B
